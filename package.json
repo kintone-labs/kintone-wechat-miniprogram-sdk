@@ -1,0 +1,35 @@
+{
+  "name": "@kintone/kintone-wechat-miniprogram-sdk",
+  "version": "0.1.0",
+  "description": "The SDK of kintone REST API client on WeChat Mini Program",
+  "main": "./src/wechat/main.js",
+  "license": "MIT",
+  "author": "Cybozu, Inc.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kintone/kintone-wechat-miniprogram-sdk.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kintone/kintone-wechat-miniprogram-sdk/issues"
+  },
+  "homepage": "https://github.com/kintone/kintone-wechat-miniprogram-sdk#readme",
+  "dependencies": {
+    "buffer": "5.3.0"
+  },
+  "files": [
+    "src"
+  ],
+  "devDependencies": {
+    "@cybozu/eslint-config": "6.0.1",
+    "eslint": "6.1.0"
+  },
+  "keywords": [
+    "kintone",
+    "app",
+    "cybozu",
+    "cybozu.com",
+    "kintone.com",
+    "wechat",
+    "miniprogram"
+  ]
+}
