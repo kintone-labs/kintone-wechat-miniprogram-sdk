@@ -560,8 +560,8 @@ Promise
       type: 'icon_type', // specified: FILE, PRESET
       key: 'icon_key'
     },
-    theme: 'your_theme' // specified: WHITE, RED, BLUE, GREEN, YELLOW, BLACK
-    revision: 'settings_revision';
+    theme: 'your_theme', // specified: WHITE, RED, BLUE, GREEN, YELLOW, BLACK
+    revision: 'settings_revision'
   };
 
   kintoneApp.updateGeneralSettings(params).then((rsp) => {

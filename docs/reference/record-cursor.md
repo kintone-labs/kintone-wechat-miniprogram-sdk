@@ -192,7 +192,7 @@ None
         })
         .catch(function(error){
             console.log('Delete cursor fail');
-            console.log(error)
+            console.log(error);
         })
 
 </pre>

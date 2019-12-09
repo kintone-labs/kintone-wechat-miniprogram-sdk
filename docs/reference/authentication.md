@@ -53,8 +53,8 @@ This module allows authenticating with the Kintone app by password authenticator
 <pre class="inline-code">
 
     let passwordAuth = {
-        username = 'your_user_name';
-        password = 'your_password';
+        username = 'your_user_name',
+        password = 'your_password'
     }
     kintoneAuth.setPasswordAuth(passwordAuth);
 
@@ -84,7 +84,7 @@ This module allows authenticating with the Kintone app by password authenticator
 <pre class="inline-code">
 
     let params = {
-        apiToken: 'your_token';
+        apiToken: 'your_token'
     }
     kintoneAuth.setApiToken(params);
 
@@ -116,8 +116,8 @@ This module allows authenticating with the Kintone app by password authenticator
 <pre class="inline-code">
 
     let basicAuth = {
-        username = 'your_user_name';
-        password = 'your_password';
+        username = 'your_user_name',
+        password = 'your_password'
     }
     kintoneAuth.setBasicAuth(basicAuth);
     

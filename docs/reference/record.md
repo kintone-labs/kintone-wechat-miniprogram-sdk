@@ -657,7 +657,7 @@ Promise
 <pre class="inline-code">
 
   const app = 'your_app_id';
-  const ids = ['your_record_id']
+  const ids = ['your_record_id'];
   kintoneRecord.deleteRecords({app, ids}).then((rsp) => {
     console.log(rsp);
   }).catch((err) => {
