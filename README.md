@@ -10,10 +10,10 @@ npm i @kintone/kintone-wechat-miniprogram-sdk
 ```javascript
 const kintone = require('@kintone/kintone-wechat-miniprogram-sdk')
 ```
-For detail, please refer to [Quick start](https://kintone.github.io/kintone-wechat-miniprogram-sdk/latest/getting-started/quickstart/)
+For detail, please refer to [Quick start](https://kintone-labs.github.io/kintone-wechat-miniprogram-sdk/latest/getting-started/quickstart/)
 
 # Document
-[kintone-wechat-miniprogram-sdk](https://kintone.github.io/kintone-wechat-miniprogram-sdk)
+[kintone-wechat-miniprogram-sdk](https://kintone-labs.github.io/kintone-wechat-miniprogram-sdk)
 
 # License
 MIT License
